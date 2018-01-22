@@ -1,7 +1,7 @@
-##Final Assignment for 'Getting and Cleaning Data'
+## Final Assignment for 'Getting and Cleaning Data'
 
 
-###The attached R script (run_analysis.R) does the following:
+### The attached R script (run_analysis.R) does the following:
 
 1. Downloads the zip file from source. The code to unzip hasn't been included as it was done separately.
 

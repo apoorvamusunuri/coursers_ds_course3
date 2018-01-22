@@ -1,14 +1,14 @@
-##Codebook
+## Codebook
 
 This codebook is a summary of all the variables and their meanings (with units), to understand tidy.txt.
 
-###Identifier fields:
+### Identifier fields:
 
  [1] "subject"                         
  [2] "activity"                        
  [3] "activity_num"                    
 
-###Measurements (all are mean measurements for a give subject-activity(and activity_num) pair):
+### Measurements (all are mean measurements for a give subject-activity(and activity_num) pair):
 
  * "timeBodyAccMean-X"              
  * "timeBodyAccMean-Y"              
